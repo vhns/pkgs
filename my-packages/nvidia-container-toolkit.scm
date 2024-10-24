@@ -19,7 +19,7 @@
 ;;; You should have received a copy of the GNU General Public License
 ;;; along with GNU Guix.  If not, see <http://www.gnu.org/licenses/>.
 
-(define-module (guix-science-nonfree packages nvidia-container-toolkit)
+(define-module (pkgs nvidia-container-toolkit)
   #:use-module (guix gexp)
   #:use-module (guix git-download)
   #:use-module (guix utils)
